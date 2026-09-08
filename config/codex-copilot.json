@@ -1,0 +1,7 @@
+{
+  "agent": "codex",
+  "enabled": true,
+  "logo": "logos/codex.svg",
+  "description": "OpenAI Codex integration for GitHub Copilot coding agent",
+  "source": "https://github.com/agentsmd/agents.md/blob/main/public/logos/codex.svg"
+}
