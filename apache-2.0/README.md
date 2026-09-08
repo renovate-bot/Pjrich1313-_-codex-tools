@@ -16,9 +16,21 @@ Full pulls of Apache-2.0 licensed tools and adapters for the Codex ecosystem.
 - **Path**: `apache-2.0/codex-acp/`
 - **Upstream**: https://github.com/agentclientprotocol/codex-acp
 
+### 3. breezewish/CodexPotter
+- **License**: Apache-2.0
+- **Purpose**: Better /goal replacement — continuous reconcile toward a goal (Ralph loop)
+- **Path**: `apache-2.0/CodexPotter/`
+- **Upstream**: https://github.com/breezewish/CodexPotter
+
+### 4. 4dhxm/codex-mcp-server
+- **License**: Apache-2.0
+- **Purpose**: MCP server bridging clients to local Codex CLI (threads, tasks, history)
+- **Path**: `apache-2.0/codex-mcp-server/`
+- **Upstream**: https://github.com/4dhxm/codex-mcp-server
+
 ## Notes
 
-- Both projects are Apache-2.0 (explicit patent grant).
-- Full LICENSE + NOTICE + README are included.
-- Source code is not vendored here; use the upstream repos for the latest code.
+- All listed projects are Apache-2.0 (explicit patent grant).
+- Full LICENSE + README are included for each.
+- Source code is not vendored; use the upstream repos for the latest code.
 - Official Codex CLI itself is also Apache-2.0: https://github.com/openai/codex
