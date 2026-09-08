@@ -28,6 +28,12 @@ Full pulls of Apache-2.0 licensed tools and adapters for the Codex ecosystem.
 - **Path**: `apache-2.0/codex-mcp-server/`
 - **Upstream**: https://github.com/4dhxm/codex-mcp-server
 
+### 5. 21st-dev/codex-plugin
+- **License**: Apache-2.0
+- **Purpose**: Self-hosted Codex plugin — 21st MCP + skills for UI component search/generate/publish
+- **Path**: `apache-2.0/codex-plugin/`
+- **Upstream**: https://github.com/21st-dev/codex-plugin
+
 ## Notes
 
 - All listed projects are Apache-2.0 (explicit patent grant).
